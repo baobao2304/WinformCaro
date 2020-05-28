@@ -194,6 +194,7 @@
             this.btnUndo.TabIndex = 13;
             this.btnUndo.Text = "Choi Lai";
             this.btnUndo.UseVisualStyleBackColor = true;
+            this.btnUndo.Click += new System.EventHandler(this.btnUndo_Click);
             // 
             // Form1
             // 
