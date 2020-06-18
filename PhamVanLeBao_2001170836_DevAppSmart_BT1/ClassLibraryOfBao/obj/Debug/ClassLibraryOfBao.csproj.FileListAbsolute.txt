@@ -1,0 +1,6 @@
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\ClassLibraryOfBao\bin\Debug\ClassLibraryOfBao.dll
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\ClassLibraryOfBao\bin\Debug\ClassLibraryOfBao.pdb
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\ClassLibraryOfBao\obj\Debug\ClassLibraryOfBao.csprojAssemblyReference.cache
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\ClassLibraryOfBao\obj\Debug\ClassLibraryOfBao.csproj.CoreCompileInputs.cache
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\ClassLibraryOfBao\obj\Debug\ClassLibraryOfBao.dll
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\ClassLibraryOfBao\obj\Debug\ClassLibraryOfBao.pdb

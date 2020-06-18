@@ -1,0 +1,2 @@
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\LibraryOfBao\obj\Debug\LibraryOfBao.csprojAssemblyReference.cache
+D:\CODE\Winform\WinformCaro.git\PhamVanLeBao_2001170836_DevAppSmart_BT1\LibraryOfBao\obj\Debug\LibraryOfBao.csproj.CoreCompileInputs.cache

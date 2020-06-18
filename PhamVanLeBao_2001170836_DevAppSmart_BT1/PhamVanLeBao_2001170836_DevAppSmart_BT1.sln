@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhamVanLeBao_2001170836_DevAppSmart_BT1", "PhamVanLeBao_2001170836_DevAppSmart_BT1\PhamVanLeBao_2001170836_DevAppSmart_BT1.csproj", "{A19FCBC1-33FF-4E13-BF12-3607C301C25E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTimHinh", "GameTimHinh\GameTimHinh.csproj", "{DD14CA23-769A-4A93-9078-FCF7E976085C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryOfBao", "ClassLibraryOfBao\ClassLibraryOfBao.csproj", "{8D6912E4-CCB9-451F-A48A-D2338C9944F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A19FCBC1-33FF-4E13-BF12-3607C301C25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A19FCBC1-33FF-4E13-BF12-3607C301C25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A19FCBC1-33FF-4E13-BF12-3607C301C25E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD14CA23-769A-4A93-9078-FCF7E976085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD14CA23-769A-4A93-9078-FCF7E976085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD14CA23-769A-4A93-9078-FCF7E976085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD14CA23-769A-4A93-9078-FCF7E976085C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6912E4-CCB9-451F-A48A-D2338C9944F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6912E4-CCB9-451F-A48A-D2338C9944F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6912E4-CCB9-451F-A48A-D2338C9944F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6912E4-CCB9-451F-A48A-D2338C9944F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
